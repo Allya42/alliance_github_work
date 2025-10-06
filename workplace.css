@@ -1,0 +1,22 @@
+body{
+    background-color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+
+}
+.sectionstyle{
+    float: left;
+    margin-right: 50px;
+    width: 40%;
+    
+}
+.image{
+    width: 40%;
+    margin-left: 5px;
+    height: auto;
+}
+.footer{
+    clear: both;
+    margin-left: 50px;
+}
